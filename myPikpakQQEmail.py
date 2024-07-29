@@ -823,8 +823,8 @@ def get_verification_code_auto(email):
     #     # 添加第一次读取的5秒延时
     #     time.sleep(5)
     #
-    #     email = '349636607@qq.com'
-    #     password = 'xdnyupqzbfxebjce'  # 这个密码不是邮箱登录密码，是pop3服务密码
+    #     email = '1043513154@qq.com'
+    #     password = 'agyctehrfvsjbbgc'  # 这个密码不是邮箱登录密码，是pop3服务密码
     #     pop3_server = 'pop.qq.com'
     #
     #     # 连接到POP3服务器:
